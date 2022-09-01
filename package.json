@@ -1,13 +1,11 @@
 {
-  "name": "gpm-lds-astro",
+  "name": "@mcasaresmdevz/gpm-lds-astro-test",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "description": "Framework to build GPM based sites.",
   "author": "Shahid N. Shah",
   "homepage": "https://github.com/shah/gpm-lds-astro",
-  "repository": {
-    "url": "git://github.com/shah/gpm-lds-astro.git"
-  },
+  "repository": "https://github.com/mcasaresmdevz/gh-registry-testing.git",
   "keywords": [
     "GPM",
     "astro",
